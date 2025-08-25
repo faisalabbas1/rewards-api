@@ -1,0 +1,12 @@
+web3>=6.11.1
+eth-account>=0.10.0
+python-dotenv>=1.0.1
+typer[all]>=0.12.3
+rich>=13.7.1
+requests>=2.32.3
+hexbytes>=0.3.1
+pyyaml>=6.0.2
+
+# Solana (to be used later)
+solana>=0.35.1
+solders>=0.24.0
